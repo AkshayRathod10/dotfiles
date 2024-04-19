@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "explorer.openEditors.visible": 0,
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": true,
+    "editor.largeFileOptimizations": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.list.smoothScrolling": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "phpParameterHint.hintOnlyLiterals": false,
+    "[python]": {
+    },
+    "git.suggestSmartCommit": false
+}
